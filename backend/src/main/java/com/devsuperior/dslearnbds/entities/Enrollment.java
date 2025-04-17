@@ -15,7 +15,7 @@ import javax.persistence.ManyToMany;
 import javax.persistence.OneToMany;
 import javax.persistence.Table;
 
-import com.devsuperior.dslearnbds.pk.EnrollmentPK;
+import com.devsuperior.dslearnbds.entities.pk.EnrollmentPK;
 
 @Entity
 @Table(name = "tb_enrollment")
