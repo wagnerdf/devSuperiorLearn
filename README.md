@@ -44,9 +44,5 @@ Marcar/desmarcar melhor resposta (somente autor do tópico e instrutor)
 
 # Autor
 
-- Aluno
 [Wagner Andrade](https://github.com/wagnerdf)
-
-- Professor
-[Nelio Alves](https://github.com/acenelio "Perfil GitHub Nelio Alves")
 
